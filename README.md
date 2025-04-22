@@ -1,4 +1,5 @@
 🏠 Smart Home Automation System using STM32 and FreeRTOS
+
 This project implements a Smart Home Automation System using an STM32 microcontroller integrated with various sensors and managed by FreeRTOS for efficient multitasking. The system automates common household functionalities such as fan control, lighting, and obstacle detection.
 
 Features
